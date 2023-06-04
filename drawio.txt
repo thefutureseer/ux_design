@@ -6,6 +6,20 @@ and windows. These interfaces are designed to enhance
 usability and provide a more intuitive way for users 
 to interact with complex systems.
 
+
+draw.io 
+A popular web-based application that falls under the category of graphical user interfaces (GUIs) and web user interfaces (UIs). It is a diagramming tool that allows users to create various types of diagrams, flowcharts, organizational charts, network diagrams, and more.
+
+As a GUI tool, draw.io provides users with a visual interface where they can create, edit, and manipulate graphical elements such as shapes, icons, and connectors. Users can drag and drop these elements onto a canvas, arrange them, and connect them to represent relationships or processes.
+
+draw.io can also be considered a web UI because it is accessed through a web browser. Users can open draw.io in their preferred web browser, create and edit diagrams online, and save their work to the cloud or export it to various file formats.
+
+Overall, draw.io combines the features of a graphical user interface (GUI) tool with the convenience and accessibility of a web user interface (UI). It allows users to create and edit diagrams in a user-friendly manner, making it suitable for a wide range of applications, from simple sketches to complex professional diagrams.
+
+
+
+ALSO:
+
 There are various types of graphical interfaces, including:
 
 1. Graphical User Interface (GUI): 
